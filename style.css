@@ -1,0 +1,21 @@
+body{
+    background-image:url("mybackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+h1 {
+    font-family: Arial, sans-sarif;
+    background-color:Black;
+    color:red;
+}
+.name {
+    color:white;
+}
+
+
+h1:hover {
+    color:pink;
+    background-color:grey;
+}
